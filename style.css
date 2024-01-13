@@ -33,13 +33,10 @@ h2{
     background-color: #ffffff;
     color: black;
     margin: 2vh 2vh 2vh 2vh;
-
 }
 .time{
     font-size: 5vh;
     font-weight: bold;
-
-
 }
 #round{
     width: 25vh;
@@ -49,47 +46,4 @@ h2{
 display: flex;
 justify-content: center;
 align-items: center;
-
-
-}
-#tre{
-    width: 0; 
-    height: 0; 
-    border-top: 10vh solid transparent;
-    border-bottom: 10vh solid transparent;
-    border-left: 15vh solid rgb(128, 77, 0);
-    margin: 2vh 2vh 2vh 5vh;
-}
-#bottom{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-#reset {
-    background-color:#ff0080;
-    width: 15vh;
-    height: 15vh;
-    margin-right: 2vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-}
-#stop{
-    background-color:#00ffff;
-    width: 15vh;
-    height: 15vh;
-    margin-left: 2vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.controls{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 2vh 2vh 2vh 2vh;
-
 }
