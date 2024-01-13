@@ -66,3 +66,30 @@ align-items: center;
     justify-content: center;
     align-items: center;
 }
+#reset {
+    background-color:#ff0080;
+    width: 15vh;
+    height: 15vh;
+    margin-right: 2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#stop{
+    background-color:#00ffff;
+    width: 15vh;
+    height: 15vh;
+    margin-left: 2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.controls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2vh 2vh 2vh 2vh;
+
+}
